@@ -7,13 +7,12 @@ int main (){
     float amount;
     int choice;
     
-    printf ("   =============================\n");
-    printf ("   ====== STRAUVERYY BANK ======\n");
-    printf ("   =============================\n");
-    
-
+    printf ("   ===============================\n");
+    printf ("   ======= STRAUVERYY BANK =======\n");
+    printf ("   ===============================\n\n");
 
  do {
+    printf ("\n   PLEASE SELECT YOUR TRANSACTION\n");
     printf("\n[1] Balance Inquiry\n");
     printf("[2] Deposit\n");
     printf("[3] Withdraw\n");
